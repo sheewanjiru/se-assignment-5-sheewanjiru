@@ -130,6 +130,18 @@ Right-click in the file explorer on the left and select New File or New Folder.
 Open Existing Ones:
    Using the activity bar the menu button an click on file and open folder from the explore of the PC.
 
+Managing Files and Folders:
+
+Renaming Files and Folders:Right-click on the file or folder in the Explorer view then select Rename from the context menu.
+Enter the new name and press Enter.
+
+Deleting Files and Folders: Right-click on the file or folder then select Delete from the context menu.
+Confirm the deletion.
+
+Moving or Copying Files and Folders:
+Drag and drop the file or folder to the desired location within the Explorer view.
+Alternatively, you can right-click on the file or folder, select Cut or Copy, navigate to the destination folder, and then right-click and select Paste.
+
 Navigate Easily:
    Click files in the explorer to open them.
    Use Ctrl+P to quickly find and open files.
